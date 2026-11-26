@@ -1,13 +1,17 @@
 {
   "conteudo": {
     "versao": 1,
-    "emitidoEm": "2026-11-26T21:48:47.383Z",
+    "emitidoEm": "2026-11-26T22:09:23.095Z",
     "contato": {
       "whatsapp": "5583987351040",
       "email": "evertonsousacontabilidade@gmail.com",
       "nome": "Everton Sousa Contabilidade"
     },
     "cnpjs": {
+      "16ec22102d131915479a3fe86c22b9d3b49bf5405c11bbbac2cd6085c292e4f2": {
+        "ate": "2026-12-31",
+        "teste": true
+      },
       "43015988a873670e6ff21029842b9bef7b17cf166926d68d46b4a66656903b43": {
         "ate": "2027-11-26"
       },
@@ -19,6 +23,7 @@
       },
       "3bb62f84624fb6c1a062b2500bbd5da0fdecdc5cbf80464df7a6d126af5f06f2": {
         "ate": "2026-12-03",
+        "teste": true,
         "perfil": "contador",
         "limite": 5
       },
@@ -27,5 +32,5 @@
       }
     }
   },
-  "assinatura": "752aoG5QR++BLLRqKc/wxsBKnUTgpYF8x1yI0j9kTC0EQlUW0E5oGwpO83RFuilIzLbZJ6HoXIT2TtNhUhyBBA=="
+  "assinatura": "HDQjDCuW1Br0UoCIZve7jJFfPaXoRxNeeKOqqZ7mKJxVhjfB5vjHZZRU/4zyB11C87s1Hh5dgpzplaFsKWg6BA=="
 }
